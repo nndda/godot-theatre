@@ -1,0 +1,14 @@
+.intro-snippet {
+/*  color: red;*/
+  max-width: 500px;
+  margin: auto;
+}
+
+a.md-content__button {
+  display: none;
+}
+
+.container {
+  max-width: 750px;
+  margin: auto;
+}
